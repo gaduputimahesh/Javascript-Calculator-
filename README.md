@@ -21,7 +21,10 @@ A simple and responsive calculator application built with HTML, CSS, and JavaScr
 
 ---
 # Demo 
-![c (1)](https://github.com/user-attachments/assets/121e6fd5-807e-462a-a8c2-0278cdb35bfb)
+![Screenshot (164)](https://github.com/user-attachments/assets/579f6573-918c-481f-8036-f725a1376211)
+![Screenshot (165)](https://github.com/user-attachments/assets/866bcb75-2eef-4e3b-98ef-9ba29e9eacd5)
+
+
 
 
 
