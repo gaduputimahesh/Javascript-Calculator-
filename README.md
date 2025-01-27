@@ -23,9 +23,5 @@ A simple and responsive calculator application built with HTML, CSS, and JavaScr
 # Demo 
 ![c (1)](https://github.com/user-attachments/assets/121e6fd5-807e-462a-a8c2-0278cdb35bfb)
 
-## How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/javascript-calculator.git
 
