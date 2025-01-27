@@ -13,14 +13,6 @@ A simple and responsive calculator application built with HTML, CSS, and JavaScr
 
 ---
 
-## Demo
-
-![Calculator Demo](./demo-image.png)
-
-*Include a screenshot or GIF of the calculator in action here.*
-
----
-
 ## Technologies Used
 
 - **HTML**: For the structure of the application.
@@ -28,6 +20,8 @@ A simple and responsive calculator application built with HTML, CSS, and JavaScr
 - **JavaScript**: For implementing the calculator's functionality.
 
 ---
+# Demo 
+![c (1)](https://github.com/user-attachments/assets/121e6fd5-807e-462a-a8c2-0278cdb35bfb)
 
 ## How to Use
 
