@@ -1,12 +1,12 @@
 # JavaScript Calculator
 
-A simple and responsive calculator application built with HTML, CSS, and JavaScript. The calculator can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
+A simple and responsive calculator application built with HTML, CSS, and JavaScript. The calculator can perform  arithmetic operations such as Addition, Subtraction, Multiplication, Modulus and Division.
 
 ---
 
 ## Features
 
-- Perform basic arithmetic operations: Addition, Subtraction, Multiplication, Division.
+- Perform arithmetic operations: Addition, Subtraction, Multiplication, Division Modulus.
 - Clear the input/output with a single button.
 - Responsive design suitable for both desktop and mobile devices.
 - User-friendly interface.
